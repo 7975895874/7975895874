@@ -44,10 +44,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🔥Streak Stats
 
 <p align="center">
-  <img src="https://github.com/7975895874/7975895874/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=7975895874&theme=radical"/>
 </p>
 
 ---
